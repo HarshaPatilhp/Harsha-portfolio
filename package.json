@@ -1,0 +1,22 @@
+{
+  "name": "harsha-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website of Harsha Patil - Building Products, Creating Stories, Driving Experiences.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve .",
+    "build": "echo \"Static portfolio site ready.\""
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "harsha-patil",
+    "personal-website"
+  ],
+  "author": "Harsha Patil",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
